@@ -1,0 +1,11 @@
+{
+  "bloque": "laminados",
+  "nombre": "Cuaderno de Laminados",
+  "categorias": [
+    "laminados-clasicos",
+    "laminados-dulces",
+    "laminados-salados",
+    "laminados-rellenos",
+    "laminados-modernos"
+  ]
+}
